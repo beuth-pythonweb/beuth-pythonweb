@@ -3,3 +3,9 @@ macOS
 ------------
 
 .DS_Store
+
+------------
+Django
+------------
+
+env_DjangoTest/
